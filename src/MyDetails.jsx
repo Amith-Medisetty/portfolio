@@ -113,7 +113,7 @@ export const projects = [
     title: "Automated Student Counting In Classroom",
     desc: "The Automated Classroom Attendance Counting system is designed to accurately count students in classroom images, leveraging deep learning techniques. The project initially explored basic models like CNN1 and CNN2 before advancing to more sophisticated architectures such as ResNet9. To achieve higher accuracy and robustness, a customized ResNet50 model was developed, featuring additional fully connected layers, dropout regularization, and a dual-branch design. This approach ensures precise attendance counting and scalability, making it suitable for real-time applications in educational and surveillance domains.",
     techStack: ["Convolutional Neural Networks(CNNs)", "ResNet9", "ResNet50", "Deep Learning"],
-    url: "https://github.com/Amith-Medisetty/StudentTracker",
+    url: "https://github.com/Amith-Medisetty/Student-Counting",
   },
   {
     title: "Expense Tracker with Chatbot and Currency Conversion",
