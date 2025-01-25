@@ -1,3 +1,4 @@
+
 //Used accross multiple Screens
 
 export const MyName = "Amith Medisetty";
@@ -19,8 +20,8 @@ export const IntroProfessionalDetails = [
     href: "https://www.linkedin.com/in/amith-medisetty-3479192b1/",
   },
   {
-    text: "Download CV",
-    href: "Resume.pdf",
+    text: "GitHub",
+    href: "https://github.com/Amith-Medisetty/",
   },
 ];
 
